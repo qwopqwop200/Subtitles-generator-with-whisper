@@ -1,4 +1,4 @@
-# speech translation with whisper
+# speech2text translation with whisper
 Subtitles generator using whisper and translator
 # How does it work?
 1. Through [whisper](https://github.com/openai/whisper), the sound of the video is mapped to text.
