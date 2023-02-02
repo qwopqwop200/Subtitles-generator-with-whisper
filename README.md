@@ -1,5 +1,7 @@
 # whisper-and-nmt
 Subtitles generator using whisper and translator
+## simple demo with [graido](https://github.com/gradio-app/gradio)
+![webui](./images/webui.png)
 # conda environment setup and run
 ```
 conda create --name whisper python=3.8 -y
